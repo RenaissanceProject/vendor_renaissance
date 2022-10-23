@@ -1,0 +1,7 @@
+runtime_resource_overlay {
+    name: "NestlLauncherIconsOverlay",
+    theme: "NestLauncherIconsOverlay",
+    certificate: "platform",
+    sdk_version: "current",
+    product_specific: true
+}
