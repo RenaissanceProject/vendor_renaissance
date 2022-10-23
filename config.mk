@@ -17,4 +17,5 @@ LOCAL_PATH := $(call my-dir)
 
 # Nest Launcher
 PRODUCT_PACKAGES += \
-    NestLauncherRelease
+    NestLauncherRelease \
+    NestlLauncherIconsOverlay
